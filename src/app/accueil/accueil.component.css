@@ -1,0 +1,32 @@
+
+.grand{
+    background-color: #FFF;
+
+  }
+  .bienvenu{
+    margin-top: -15px;
+  }
+  .imageOrange{
+    margin-top: -30px;
+  }
+  
+
+  
+  .inscription{
+
+    margin-left: 10px;
+    text-align: center;
+    width: 200px;
+
+  }
+  .login{
+    margin-right: 10px;
+    text-align: center;
+    width: 200px;
+    background-color: #FF6700;
+    color: #FFF;
+  }
+  .bouton{
+    margin-top: -20px;
+  }
+ 
